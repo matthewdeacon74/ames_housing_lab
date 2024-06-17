@@ -1,4 +1,4 @@
-,SalePrice,Neighborhood,Year Built
+,formattedPrice,Neighborhood,Year Built
 0,"$215,000.00",NAmes,1960
 1,"$105,000.00",NAmes,1961
 2,"$172,000.00",NAmes,1958
